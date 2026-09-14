@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Saadkhan10412/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Saadkhan10412/Leetcode/tree/master/0403-frog-jump) |
 | [1046-last-stone-weight](https://github.com/Saadkhan10412/Leetcode/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saadkhan10412/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Saadkhan10412/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Saadkhan10412/Leetcode/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
