@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Saadkhan10412/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Saadkhan10412/Leetcode/tree/master/0403-frog-jump) |
+| [1035-uncrossed-lines](https://github.com/Saadkhan10412/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/Saadkhan10412/Leetcode/tree/master/1046-last-stone-weight) |
 ## Heap (Priority Queue)
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saadkhan10412/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Saadkhan10412/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Saadkhan10412/Leetcode/tree/master/0403-frog-jump) |
+| [1035-uncrossed-lines](https://github.com/Saadkhan10412/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Saadkhan10412/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -33,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1035-uncrossed-lines](https://github.com/Saadkhan10412/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Saadkhan10412/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
