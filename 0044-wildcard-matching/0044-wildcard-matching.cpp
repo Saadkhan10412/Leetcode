@@ -18,15 +18,16 @@ public:
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
-        bool a=false,b=false,c=false;
+        bool a=false,b=false,c=false,d=false;
         if(s[i]==p[j] || p[j]=='?'){
             a=helper(s,p,i+1,j+1,dp);
         }
         if(p[j]=='*'){
             b=helper(s,p,i+1,j,dp);
             c=helper(s,p,i,j+1,dp);
+            d=helper(s,p,i+1,j+1,dp);
         }
-        return dp[i][j]=a||b||c;
+        return dp[i][j]=a||b||c||d;
     }
     bool isMatch(string s,string p){
         vector<vector<int>> dp(s.size(),vector<int>(p.size(),-1));
