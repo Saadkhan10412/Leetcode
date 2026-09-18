@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Saadkhan10412/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saadkhan10412/Leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Saadkhan10412/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Saadkhan10412/Leetcode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Saadkhan10412/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saadkhan10412/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saadkhan10412/Leetcode/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Saadkhan10412/Leetcode/tree/master/0097-interleaving-string) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Saadkhan10412/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Saadkhan10412/Leetcode/tree/master/0044-wildcard-matching) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Saadkhan10412/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
