@@ -1,19 +1,26 @@
 class Solution {
 public:
-    int helper(vector<vector<int>>& triangle,int n,int m, int i, int j,vector<vector<int>>& dp){
-        if(i==n-1){
-            return dp[i][j]=triangle[i][j];
-        }
-        if(dp[i][j]!=1e4+1){
-            return dp[i][j];
-        }
-        int a=helper(triangle,n,m,i+1,j,dp);
-        int b=helper(triangle,n,m,i+1,j+1,dp);
-        return dp[i][j]=triangle[i][j]+min(a,b);
-    }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n=triangle.size();
+
         vector<vector<int>> dp(n,vector<int>(n,1e4+1));
-        return helper(triangle,n,n,0,0,dp);
+
+        dp[0][0]=triangle[0][0];
+
+        for(int i=1;i<n;i++){
+            for(int j=0;j<=i;j++){
+                if(j==0){
+                    dp[i][j]=triangle[i][j]+dp[i-1][j];
+                }
+                else if(j==i){
+                    dp[i][j]=triangle[i][j]+dp[i-1][j-1];
+                }
+                else{
+                    dp[i][j]=triangle[i][j]+min(dp[i-1][j-1],dp[i-1][j]);
+                }
+            }
+        }
+
+        return *min_element(dp[n-1].begin(),dp[n-1].end());
     }
 };
