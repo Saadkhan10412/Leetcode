@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saadkhan10412/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saadkhan10412/Leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Saadkhan10412/Leetcode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Saadkhan10412/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Saadkhan10412/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Saadkhan10412/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/Saadkhan10412/Leetcode/tree/master/1046-last-stone-weight) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saadkhan10412/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Saadkhan10412/Leetcode/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/Saadkhan10412/Leetcode/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/Saadkhan10412/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saadkhan10412/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Saadkhan10412/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0931-minimum-falling-path-sum](https://github.com/Saadkhan10412/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Saadkhan10412/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Saadkhan10412/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Saadkhan10412/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Saadkhan10412/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Saadkhan10412/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
